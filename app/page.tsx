@@ -2,7 +2,7 @@
 
 import * as main from "@/components/main/index";
 import type { PostInfo } from "@/components/main/types/post";
-let postList: PostInfo[] = [
+const postList: PostInfo[] = [
   {
     title: "Title",
     content:
